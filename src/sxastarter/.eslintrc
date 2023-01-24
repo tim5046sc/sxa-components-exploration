@@ -6,11 +6,9 @@
     "plugin:@typescript-eslint/recommended",
     "prettier/@typescript-eslint",
     "plugin:yaml/recommended",
-    "plugin:prettier/recommended"
   ],
   "plugins": [
     "@typescript-eslint",
-    "prettier",
     "yaml"
   ],
   "ignorePatterns": [".generated/**/*", "**/*.d.ts", "**/*.js"],

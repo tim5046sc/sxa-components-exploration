@@ -28,7 +28,6 @@
     "jsx": "preserve",
     "allowSyntheticDefaultImports": true,
     "noImplicitReturns": true,
-    "noImplicitAny": true,
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true
