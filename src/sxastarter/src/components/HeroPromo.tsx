@@ -1,3 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+//@ts-ignore
 import Image from 'next/future/image';
 import { Box, Text } from '@chakra-ui/react';
 import { PrimaryButton } from './Buttons';
