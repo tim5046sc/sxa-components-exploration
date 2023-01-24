@@ -10,6 +10,7 @@ export type PromoProps = {
   image?: never;
   buttonText?: string;
   buttonPath?: string;
+  fields: any;
 };
 
 export default function Promo(props: PromoProps) {
